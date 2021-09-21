@@ -1,4 +1,4 @@
-![7a075ae77e31249f5585f38cbeb77dd0 (2)](https://user-images.githubusercontent.com/84512435/134181738-d8c9756e-35ae-4c44-8be9-7514c458a0a0.jpg)
+![7a075ae77e31249f5585f38cbeb77dd0 (5)](https://user-images.githubusercontent.com/84512435/134183205-c6db0d1e-2749-4049-8723-fa7e0a3f9e71.jpg)
 
 # Laura Lucas : Web developper Junior @ Becode
 
@@ -8,7 +8,8 @@ Je m'appelle Laura Lucas, je suis en formation chez Becode. Je suis à la recher
 
 ## Comment me contacter
 
-Linkedin : https://www.linkedin.com/in/lauralucaswebdev/
+Linkedin : https://www.linkedin.com/in/lauralucaswebdev/  
+
 Email : lauralucas3@hotmail.be
 
 ## Formation
