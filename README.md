@@ -1,4 +1,10 @@
-### Hi there 👋
+![7a075ae77e31249f5585f38cbeb77dd0 (2)](https://user-images.githubusercontent.com/84512435/134180392-bd273fe8-d019-4cd4-8a2a-9f230cb79a8d.jpg)
+
+# Je m'appelle Laura Lucas, je suis en formation chez Becode. Je suis à la recherche d'un stage, en vue de trouver un emploi au terme de la formation. 
+
+## Formation
+
+Je suis diplômée de l'Université de Namur en histoire de l'art et archéologie
 
 <!--
 **LauraLucas3/LauraLucas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
