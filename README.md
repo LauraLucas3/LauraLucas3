@@ -26,9 +26,12 @@ Grâce à Becode, j'ai appris :
 - CSS3
    - SASS
    - Bootstrap
+   - Bulma
+   - Tailwind
 - Javascript
    - Chart.JS
    - Node.JS
+   - React.JS
 - Php
 - MySQL et SQL
 
